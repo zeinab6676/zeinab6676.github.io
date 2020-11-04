@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/zeinab6676/http-zeinab6676.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+About Me
+I am zeinab karami , born on 1376/10/07
+I am a bachelor student of Payame Noor University of pakdasht
+with a major in computer engineering, entrance 95;
+### phon number
+09182947805
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Personal information
++ First name : zeinab
 
-### Markdown
++ Last name : karami
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
++ Birth Day : 07 day 1376
 
-```markdown
-Syntax highlighted code block
++Im married
 
-# Header 1
-## Header 2
-### Header 3
+### Languages
++ Persian
 
-- Bulleted
-- List
++ Turkish
 
-1. Numbered
-2. List
++ English(Intermediate)
 
-**Bold** and _Italic_ and `Code` text
+### Skills
+ 
+ ### Work Experience
 
-[Link](url) and ![Image](src)
-```
+### Certifications
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact Me
+- Gmail: karami.zeinab.m76@gmail.com
+- Quera Profile
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zeinab6676/http-zeinab6676.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### درباره من
+من  کرمی هستم ، متولد 1376/10/07
+دانشجوی کارشناسی دانشگاه پیام نور پاکدشت، ورودی95 هستم
+### شماره تماس09182947805
 
-### Support or Contact
+### اطلاعات شخصی
++ نام: زینب
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
++ نام خانوادگی : کرمی
+
++ تولد: 07دی1376
+
++متاهل
+
+### زبان
++ فارسی
+
++ ترکی
+
++ (انگلیسی  (متوسط
+
+### مهارت ها
+
+  
+### سوابق کاری
+
+
+### گواهی مهارت
